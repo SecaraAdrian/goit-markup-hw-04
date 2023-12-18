@@ -383,7 +383,15 @@ font-size: 16px;
             0px 1px 1px 0px rgba(46, 47, 66, 0.16),
             0px 1px 6px 0px rgba(46, 47, 66, 0.08);
 }
-
+.social-list{
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
+.social-icon{
+    width: 40px;
+    height: 40px;
+}
 /* section five */
 .section-five-container{
     padding-top: 120px;
