@@ -466,6 +466,9 @@ font-size: 16px;
     fill:currentColor;
 }
 /* footer */
+p {
+    margin: 0;
+}
 .s-m-footer{
     display: flex;
     align-items: baseline;
