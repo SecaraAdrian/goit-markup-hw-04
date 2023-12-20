@@ -427,8 +427,9 @@ font-size: 16px;
     display: flex;
     align-items: baseline;
 }
-.footer-logo{
-    margin-right: 120px;
+.container-logo-sm{
+    display: flex;
+    align-items: baseline;
 }
 .s-m-phara{
     font-weight: 500;
@@ -437,4 +438,7 @@ font-size: 16px;
     letter-spacing: 0.02em;
     color:var(--WHITE);
     margin-bottom: 16px;
+}
+.footer-logo{
+    margin-right: 120px;
 }
