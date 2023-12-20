@@ -384,7 +384,7 @@ font-size: 16px;
     color:var(--CLOUD);
     letter-spacing: 0.02em;
     max-width: 264px;
-    margin-bottom: 16px;
+    margin-top 16;
  }
 .team {
     width: calc(100% - 72px) / 4;
