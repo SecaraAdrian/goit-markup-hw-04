@@ -427,3 +427,6 @@ font-size: 16px;
     display: flex;
     align-items: baseline;
 }
+.sm-container-footer{
+    margin-right: 120px;
+}
