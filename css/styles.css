@@ -68,6 +68,9 @@ ul{
     background-color: var(--WHITE);
 
 }
+h2 {
+    margin: 0;
+}
 .link {
     text-decoration: none;
     display: inline-block;
