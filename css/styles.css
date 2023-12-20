@@ -327,6 +327,7 @@ font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--SLATE);
+    margin-bottom: 16px;
  }
  .p-team {
      text-align: center;
@@ -435,7 +436,9 @@ font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color:var(--WHITE);
-    margin-bottom: 16px;
+    margin-left: 40px;
+    max-width: 264px;
+    margin-top: 16px;
 }
 .div-element-footer{
     margin-right: 120px;
