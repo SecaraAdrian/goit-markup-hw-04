@@ -71,6 +71,9 @@ ul{
 h2 {
     margin: 0;
 }
+p {
+    margin: 0;
+}
 .link {
     text-decoration: none;
     display: inline-block;
@@ -384,7 +387,7 @@ font-size: 16px;
     color:var(--CLOUD);
     letter-spacing: 0.02em;
     max-width: 264px;
-    margin-top 16;
+    margin-bottom: 16px;
  }
 .team {
     width: calc(100% - 72px) / 4;
@@ -466,9 +469,7 @@ font-size: 16px;
     fill:currentColor;
 }
 /* footer */
-p {
-    margin: 0;
-}
+
 .s-m-footer{
     display: flex;
     align-items: baseline;
