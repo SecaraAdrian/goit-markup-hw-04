@@ -423,13 +423,11 @@ font-size: 16px;
     color:var(--NAVY-BLUE);
 }
 /* footer */
-.container-footer-sm{
+.s-m-footer{
     display: flex;
     align-items: baseline;
-}
-.container-logo-sm{
-    display: flex;
-    align-items: baseline;
+    letter-spacing: 0.02em;
+    margin-bottom: 16px;
 }
 .s-m-phara{
     font-weight: 500;
