@@ -6,6 +6,7 @@
         --CLOUD: #F4F4FD;
         --OCEAN: #404BBF;
         --cornflower:#e7e9fc;
+        --icon-color:#8e8f99;
 }
 img{
     display: block;
@@ -430,6 +431,26 @@ font-size: 16px;
 .list-icon{
     width: calc((100% - 120px) / 6);
     height: 88px;
+}
+.client-link{
+    width: 100%;
+    height: 100%;
+    border: 1px solid #8e8f99;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--icon-color);   
+}
+.client-link:hover{
+    border-color: #404bbf;
+}
+.client-link:focus{
+    border-color: #404bbf;
+}
+.svg-icon{
+    fill:currentColor;
+    
 }
 /* footer */
 .s-m-footer{
