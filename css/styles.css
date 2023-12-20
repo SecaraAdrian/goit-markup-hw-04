@@ -68,12 +68,13 @@ ul{
     background-color: var(--WHITE);
 
 }
-h2 {
-    margin: 0;
-}
 p {
     margin: 0;
 }
+h2 {
+    margin: 0;
+}
+
 .link {
     text-decoration: none;
     display: inline-block;
