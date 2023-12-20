@@ -423,14 +423,17 @@ font-size: 16px;
     padding-bottom: 120px;
 }
 .customers {
+
     margin-bottom: 72px;
     font-size: 36px;
     line-height: 1.11;
     color:var(--NAVY-BLUE);
+    text-align: center;
 }
 .list-cutomers {
     display: flex;
     gap: 24px;
+    padding: 0;
 }
 .list-icon{
     width: calc((100% - 120px) / 6);
@@ -448,9 +451,12 @@ font-size: 16px;
 }
 .client-link:hover{
     border-color: #404bbf;
+    color: #404BBF;
 }
 .client-link:focus {
+    background-color: #404bbf;
     border-color: #404bbf;
+    color: #404BBF;
 }
 .svg-icon{
     fill:currentColor;
@@ -489,7 +495,6 @@ background-color: #31d0aa;
     margin-left: 40px;
     max-width: 264px;
     margin-top: 16px;
-    margin-bottom: 16px;
 }
 .div-element-footer{
     margin-right: 120px;
